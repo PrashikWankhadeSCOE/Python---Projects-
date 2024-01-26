@@ -23,3 +23,7 @@
 
 - ## Program-6
 ![image](./preveiw_image/prog6.gif) 
+
+
+- ## Program-6
+![image](./preveiw_image/prog7.gif) 
