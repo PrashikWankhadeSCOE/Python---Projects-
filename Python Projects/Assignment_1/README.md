@@ -19,3 +19,7 @@
 
 - ## Program-5
 ![image](./preveiw_image/prog5.gif) 
+
+
+- ## Program-6
+![image](./preveiw_image/prog6.gif) 
