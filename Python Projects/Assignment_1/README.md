@@ -25,5 +25,8 @@
 ![image](./preveiw_image/prog6.gif) 
 
 
-- ## Program-6
+- ## Program-7
 ![image](./preveiw_image/prog7.gif) 
+
+- ## Program-8
+![image](./preveiw_image/prog8.gif)
