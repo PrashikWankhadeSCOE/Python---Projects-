@@ -33,3 +33,6 @@
 
 - ## Program-9
 ![image](./preveiw_image/prog9.gif)
+
+- ## Program-10
+![image](./preveiw_image/prog10.gif)
